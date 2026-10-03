@@ -1,2 +1,2 @@
-# LexerPHP
-Analizador léxico para el lenguaje php utilizando JFlex
+# LexerC#
+Analizador léxico para el lenguaje C# utilizando parseo por caracter
